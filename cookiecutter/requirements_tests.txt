@@ -1,6 +1,0 @@
-pytest==8.3.4
-pytest-cov
-torch
-typer
-fastapi
-uvicorn
