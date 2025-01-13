@@ -3,6 +3,7 @@ import torch
 print(torch.__version__)
 print(torch.version.cuda)
 import typer
+#test
 
 def normalize(images: torch.Tensor) -> torch.Tensor:
     """Normalize images."""
