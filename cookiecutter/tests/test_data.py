@@ -3,7 +3,7 @@ import os.path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import torch
 from src.code_structure.data import corrupt_mnist
-#comment
+#comments
 
 def test_data():
     train, test = corrupt_mnist()
